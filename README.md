@@ -1,32 +1,14 @@
-# prj4-group-template
+# Digital Platform Capstone Project - Events Light
 
-### A template for creating a group website
+### Made by Belle Kuppens
+This platform is lightly adapted from the BUas PRJ4 Brand Development Group Website Template
 
-This one page example uses the following patterns:
-- A navigation bar
-- A hero section with two buttons and a gradient background
-- A carousel with three images
-- A grid with cards and placeholder images
-- A footer
-- Some CSS customization: navigation bar, hero section and body have their own background color
-- Google Fonts: <https://fonts.google.com/specimen/Raleway>
+### About the platform
+The platform focuses on layout and structure instead of content. Each piece of content, whether it's text, images, videos, or contact information, is replaced with a placeholder that is adjustable to the final piece of content once the digital platform starts its completion process by Events Light. Attached to the project folder is a document named 'Digital_Platform_Placeholder_Justifications' where each needed alteration, before the platform is complete, is listed.
 
-### See it at work!
+### See the platform!
 
-The project is published at <https://buas-media-interactive.github.io/prj4-group-template> **PLEASE REPLACE THIS ADDRESS WITH YOUR PROJECT'S URL WHEN PUBLISHING YOUR WEBSITE**
+The project is published at <https://belle-kuppens.github.io/Digital-Platform-Capstone-Events-Light/>
 
-### Create your own group website
-
-Click on [Use this template](https://github.com/buas-media-interactive/prj4-group-template/generate) to create a new repository for your group website.
-
-Please check the comments in [index.html](https://github.com/buas-media-interactive/prj4-group-template/blob/main/index.html) and [css/styles.css](https://github.com/buas-media-interactive/prj4-group-template/blob/css/styles.css) as well as the [Bootstrap 5.1 Documentation](https://getbootstrap.com/docs/5.1/) for help with customizing the template.
-
-### Check the requirements before handing in
-
-Please double-check the requirements in the course's [Brightspace environment](https://study.buas.nl/d2l/home/25973) and/or in the [Production guide](https://buas-media-interactive.github.io/prj4-guide/checklist-group.html)
-
-### Image credits
-
-Social media icons: FontAwesome - <https://fontawesome.com/> - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
-
-Photos of the campus were taken by Raphaël Velt © [Breda University of Applied Sciences](https://www.buas.nl/)
+### Design Choices
+All design choices are justified and explained in detail in the Design Document: CB_2526_Capstone_DesignDocument_EventsLight
