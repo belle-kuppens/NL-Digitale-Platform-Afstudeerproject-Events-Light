@@ -1,14 +1,12 @@
-# Digital Platform Capstone Project - Events Light
+# Digitale Platform Afstudeerproject - Events Light
 
-### Made by Belle Kuppens
-This platform is lightly adapted from the BUas PRJ4 Brand Development Group Website Template
+### Gemaakt door Belle Kuppens
+### Over het platform
+Dit platform richt zich op de lay-out en structuur in plaats van op de content. Elk onderdeel van de content, of het nu tekst, afbeeldingen, video's of contactgegevens zijn, wordt vervangen door een placeholder die kan worden aangepast aan de uiteindelijke inhoud zodra de afronding van het digitale platform gestart wordt. Het gedeelde bestand genaamt 'Handleiding_Digitale_Platform_Afstudeerproject_BelleKuppens', bevat een overzicht van alle content items die missen of nog toegevoegd/ingevuld moeten worden in dit proces.
 
-### About the platform
-The platform focuses on layout and structure instead of content. Each piece of content, whether it's text, images, videos, or contact information, is replaced with a placeholder that is adjustable to the final piece of content once the digital platform starts its completion process by Events Light. Attached to the project folder is a document named 'Digital_Platform_Placeholder_Justifications' where each needed alteration, before the platform is complete, is listed.
+### Bekijk het platform!
 
-### See the platform!
+Het platform is te bekijken via <https://belle-kuppens.github.io/NL-Digitale-Platform-Afstudeerproject-Events-Light/>
 
-The project is published at <https://belle-kuppens.github.io/Digital-Platform-Capstone-Events-Light/>
-
-### Design Choices
-All design choices are justified and explained in detail in the Design Document: CB_2526_Capstone_DesignDocument_EventsLight
+### Design Keuzes
+Ter extra ondersteuning van de design-gerelateerde elementen van het platform, is het gedeelde bestand genaamd 'DesignDoc_Digitale_Platform_Afstudeerproject_BelleKuppens' gemaakt.
